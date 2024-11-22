@@ -1,0 +1,1 @@
+Este proyecto consta de una base de varillas y rulemanes, que servirán como soporte para una jeringa, la cual contendrá el líquido que queramos inyectar, para luego ser empujada por un motor paso a paso al marcar en un teclado la cantidad de la dosis solicitada.
